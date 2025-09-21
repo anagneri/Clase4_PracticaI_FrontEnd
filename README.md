@@ -27,11 +27,11 @@ El usuario puede ingresar nombres, visualizarlos en una lista y sortear de maner
 ## 📂 Estructura del proyecto
 
 Amigo-Secreto/
-│── index.html # Página principal
-│── style.css # Estilos personalizados
-│── app.js # Lógica de la aplicación
-│── assets/ # Imágenes y recursos gráficos
-└── README.md # Documentación del proyecto
+├── index.html   # Página principal  
+├── style.css    # Estilos personalizados  
+├── app.js       # Lógica de la aplicación  
+├── assets/      # Imágenes y recursos gráficos  
+└── README.md    # Documentación del proyecto
 
 ---
 
